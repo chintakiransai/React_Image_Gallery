@@ -1,8 +1,24 @@
-# React + Vite
+# React_Image_Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Requirements
+* Node.js and npm should be installed on your machine.
+* Basic knowledge of React and React Router Dom.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Setup instructions
+1. Clone the project
+```
+git clone https://github.com/chintakiransai/React_Image_Gallery_Assignment.git
+```
+2. Move into the directory
+```
+cd React_Image_Gallery_Assignment
+```
+3. Install additional dependencies
+```
+npm i axios react-router-dom
+```
+4. Run the server
+```
+npm run dev
+```
+* Open your web browser and visit http://localhost:port to access the React Gallery App.
