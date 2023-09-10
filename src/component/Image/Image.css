@@ -1,0 +1,7 @@
+img {
+    max-height: 320px;
+    min-height:270px;
+    max-width:270px;
+    min-width:220px;
+    border-radius: 8px;
+}

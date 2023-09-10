@@ -1,0 +1,31 @@
+.imageDetails-container {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: #0b3360;
+    margin:72px auto;
+    padding :16px;
+    max-width:960px
+}
+.imageDetails-subcontainer {
+     margin:24px;
+}
+
+img {
+    max-height:200px;
+    max-width:200px;
+    box-shadow: #ffffff;
+    box-shadow: 0 1px 8px #a19393;
+}
+
+.imageDetails-title{
+    color:#ffffff;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.imageDetails-desc {
+    margin-top: 16px;
+    color:#ffffff;
+    line-height: 24px;
+}
